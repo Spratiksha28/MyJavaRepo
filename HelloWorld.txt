@@ -7,7 +7,12 @@ void welcomeMethod(){
 
 	public static void main(){
 
+<<<<<<< HEAD
 		welcomeMethod();
+=======
+		HelloWorld obj = new HelloWorld();
+		obj.welcomeMethod();
+>>>>>>> idea
 	}
 
 }
