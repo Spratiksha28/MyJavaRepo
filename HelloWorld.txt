@@ -1,18 +1,15 @@
 class HelloWorld{
 
 void welcomeMethod(){
+
 		System.out.println("Welcome to my method");
 }
 
 
 	public static void main(){
+ 
+			welcomeMethod();
 
-<<<<<<< HEAD
-		welcomeMethod();
-=======
-		HelloWorld obj = new HelloWorld();
-		obj.welcomeMethod();
->>>>>>> idea
 	}
 
 }
