@@ -1,13 +1,13 @@
 class HelloWorld{
 
-void myMethod(){
+void welcomeMethod(){
 		System.out.println("Welcome to my method");
 }
 
 
 	public static void main(){
 
-		myMethod();
+		welcomeMethod();
 	}
 
 }
